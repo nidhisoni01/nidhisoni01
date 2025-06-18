@@ -81,13 +81,23 @@ Email Me 👉 ✉️ **soninidhi630@gmail.com** For Collaboration/Project or Any
 
 <br/>
 
-# 📊 GitHub Stats:
+<h2>📊 GitHub Stats:</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nidhisoni01&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=nidhisoni01&theme=rose_pine&hide_border=false" alt="GitHub Streak"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhisoni01&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nidhisoni01&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhisoni01&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs"/>
+    </td>
+  </tr>
+</table>
 
-<br/>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nidhisoni01&theme=rose_pine&hide_border=false" alt="GitHub Streak"/>
+</p>
+
 
 ### 🎖 &nbsp;My Badges 
 
