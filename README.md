@@ -89,6 +89,13 @@ Email Me 👉 ✉️ **soninidhi630@gmail.com** For Collaboration/Project or Any
 
 <br/>
 
+### 🎖 &nbsp;My Badges 
+
+
+[![An image of @nidhisoni01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nidhisoni01)](https://holopin.io/@nidhisoni01)
+
+
+
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote"/>
 
@@ -102,7 +109,6 @@ Email Me 👉 ✉️ **soninidhi630@gmail.com** For Collaboration/Project or Any
 [![](https://visitcount.itsvg.in/api?id=nidhisoni01&icon=2&color=5)](https://visitcount.itsvg.in)
 
 </div>
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
