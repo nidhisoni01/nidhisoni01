@@ -14,12 +14,9 @@
 Email Me 👉 ✉️ **soninidhi630@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Building dynamic full-stack applications using the MERN stack.
-- 🌱 **I’m currently learning:** Advanced MERN concepts, CI/CD pipelines, Docker, and cloud deployment (AWS).
+- 🌱 **I’m currently learning:** CI/CD pipelines, Docker, and cloud deployment (AWS).
 - 👯 **I’m looking to collaborate on:** Innovative web apps, open-source MERN projects, and real-world solutions.
-- 🤔 **I’m looking for help with:** Backend optimization, DevOps best practices, and production-ready deployments.
-- 💬 **Ask me about:** React, MongoDB, Node.js, or how to get started in web dev!
 - 📫 **How to reach me:** soninidhi630@gmail.com
-- ⚡ **Fun fact:** I love turning ideas into reality through clean code and great UI/UX.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhi-soni-b06449250)
