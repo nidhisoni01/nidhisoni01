@@ -3,25 +3,6 @@
 <p align="center"><strong>A passionate Full-Stack Developer | MERN Stack Enthusiast | DevOps Learner</strong></p>
 
 <hr />
-<p align="center">
-  <em>
-    👋 Hi, I'm Nidhi Soni , currently pursuing <b>B.Tech in CSE (Cloud DevOps & Full Stack)</b> from 
-    <a href="https://manavrachna.edu.in/"><b>Manav Rachna University</b>, Faridabad</a>. <br>
-   👩‍💻 Software Developer
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 
-    .
-  </em> 
-  <br>
-<!--   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> 
-  <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /> -->
-</p>
-
-
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhisoni01&label=Profile%20views&color=0e75b6&style=flat" alt="nidhisoni01" /> </p>
 
