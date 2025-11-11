@@ -9,8 +9,6 @@
     <a href="https://manavrachna.edu.in/"><b>Manav Rachna University</b>, Faridabad</a>. <br>
    👩‍💻 Software Developer
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
-Passionate about continuous learning, building scalable applications, and writing clean, efficient code. Always open to opportunities that encourage growth, collaboration, and solving real-world problems through technology.
-    Solid foundation in Full-Stack Web Development (MERN stack), with a focus on building responsive interfaces, scalable backends, and delivering real-world solutions through clean and efficient code.
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 
     .
   </em> 
