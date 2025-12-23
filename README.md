@@ -23,7 +23,7 @@ Email Me 👉 ✉️ **soninidhi630@gmail.com** For Collaboration/Project or Any
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NidhiSoni01234)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/soninidhi1/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-blue.svg?logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1EIVunfegUxkkoWH37dKJuZ0WQeOqK8zO/view?usp=sharing)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C896.svg?logo=vercel&logoColor=white)](https://portfolio-nidhisoni.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C896.svg?logo=vercel&logoColor=white)](http://13.51.107.86/)
 
 
 <!-- Snake Game Repo View -->
