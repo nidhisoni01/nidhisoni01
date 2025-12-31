@@ -8,7 +8,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nidhisoni01&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nidhisoni01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 Email Me 👉 ✉️ **soninidhi630@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -57,22 +57,10 @@ Email Me 👉 ✉️ **soninidhi630@gmail.com** For Collaboration/Project or Any
 
 <br/>
 
-<h2>📊 GitHub Stats:</h2>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nidhisoni01&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhisoni01&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs"/>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nidhisoni01&theme=rose_pine&hide_border=false" alt="GitHub Streak"/>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nidhisoni01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nidhisoni01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhisoni01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### 🎖 &nbsp;My Badges 
