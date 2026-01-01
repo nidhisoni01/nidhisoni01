@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I’m Nidhi Soni</h3>
 
-<p align="center"><strong>A passionate Full-Stack Developer | MERN Stack Enthusiast | DevOps Learner</strong></p>
+<p align="center"><strong>Software Developer | Full-Stack Dveloper | DevOps Learner</strong></p>
 
 <hr />
 
