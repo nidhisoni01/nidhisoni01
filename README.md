@@ -8,7 +8,19 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nidhisoni01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Github](https://github-profile-trophy.vercel.app/?username=nidhisoni01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<br>
+
+![GitHub followers](https://img.shields.io/github/followers/nidhisoni01?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/nidhisoni01?style=for-the-badge)
+
+<br>
+
+<!-- ![Forks](https://img.shields.io/github/forks/nidhisoni01/finance-tracker?style=for-the-badge) -->
+<!-- ![Issues](https://img.shields.io/github/issues/nidhisoni01/finance-tracker?style=for-the-badge) -->
+
+<br>
 
 
 Email Me 👉 ✉️ **soninidhi630@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -18,6 +30,8 @@ Email Me 👉 ✉️ **soninidhi630@gmail.com** For Collaboration/Project or Any
 - 👯 **I’m looking to collaborate on:** Innovative web apps, open-source MERN projects, and real-world solutions.
 - 📫 **How to reach me:** soninidhi630@gmail.com
 
+  <br>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhi-soni-b06449250)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NidhiSoni01234)
@@ -25,14 +39,15 @@ Email Me 👉 ✉️ **soninidhi630@gmail.com** For Collaboration/Project or Any
 [![Resume](https://img.shields.io/badge/Resume-PDF-blue.svg?logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1EIVunfegUxkkoWH37dKJuZ0WQeOqK8zO/view?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300C896.svg?logo=vercel&logoColor=white)](http://13.51.107.86/)
 
+<br>
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<!--<div align="center"> -->
+ <!-- <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> -->
+<!--</div> -->
 
-<div align="center">
+<!--<div align="center"> -->
 
 # 💻 Tech Stack:
 
