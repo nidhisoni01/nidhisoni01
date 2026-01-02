@@ -12,16 +12,6 @@
 
 <br>
 
-![GitHub followers](https://img.shields.io/github/followers/nidhisoni01?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/nidhisoni01?style=for-the-badge)
-
-<br>
-
-<!-- ![Forks](https://img.shields.io/github/forks/nidhisoni01/finance-tracker?style=for-the-badge) -->
-<!-- ![Issues](https://img.shields.io/github/issues/nidhisoni01/finance-tracker?style=for-the-badge) -->
-
-<br>
-
 
 Email Me 👉 ✉️ **soninidhi630@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
