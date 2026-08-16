@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I’m Nidhi Soni</h3>
 
-<p align="center"><strong>Software Developer | Full-Stack Dveloper | DevOps Learner</strong></p>
+<p align="center"><strong>Software Developer | Full-Stack Developer | DevOps Learner</strong></p>
 
 <hr />
 
@@ -15,9 +15,10 @@
 Email Me 👉 ✉️ **soninidhi630@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Building dynamic full-stack applications using the MERN stack.
-- 🌱 **I’m currently learning:** CI/CD pipelines, Docker, and cloud deployment (AWS).
-- 👯 **I’m looking to collaborate on:** Innovative web apps, open-source MERN projects, and real-world solutions.
+- 🌱 **I’m currently learning and improving:** Spring boot & Maven, CI/CD, Docker and cloud deployment (AWS).
+- 👯 **I’m looking to collaborate on:** Full-stack web applications, open-source projects, and innovative real-world solutions.
 - 📫 **How to reach me:** soninidhi630@gmail.com
+- 🌐 **Portfolio:** https://nidhisoni.website
 
   <br>
 
