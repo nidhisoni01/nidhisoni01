@@ -26,8 +26,8 @@ Email Me 👉 ✉️ **soninidhi630@gmail.com** For Collaboration/Project or Any
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhi-soni-b06449250)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NidhiSoni01234)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/soninidhi1/)
-[![Resume](https://drive.google.com/file/d/1JK_pS-cYE2xr2WK7W89j9tAMGMMeLz-Z/view?usp=sharing)](https://drive.google.com/file/d/1EIVunfegUxkkoWH37dKJuZ0WQeOqK8zO/view?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300C896.svg?logo=vercel&logoColor=white)](https://nidhisoni.website/)
+![Resume](https://drive.google.com/thumbnail?id=1JK_pS-cYE2xr2WK7W89j9tAMGMMeLz-Z&sz=w1000)
 
 <br>
 
