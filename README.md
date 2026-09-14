@@ -1,93 +1,169 @@
-<h3 align="center">👋 Hi there! I’m Nidhi Soni</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=NIDHI%20SONI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20DevOps%20Learner&descAlignY=58&descSize=18&color=0:0F172A,50:2563EB,100:0F766E" width="100%" />
+</p>
 
-<p align="center"><strong>Software Developer | Full-Stack Developer | DevOps Learner</strong></p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Software+Developer;Full-Stack+Developer;MERN+Stack+Developer;Cloud+%26+DevOps+Learner;AI-Powered+Application+Builder;Problem+Solver+%7C+Product+Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
-<hr />
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-CSE-2563EB?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manav%20Rachna%20University-2026-1E3A8A?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CGPA-7.7-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/India-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhisoni01&label=Profile%20views&color=0e75b6&style=flat" alt="nidhisoni01" /> </p>
+<p align="center">
+  <a href="https://nidhisoni.website">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/nidhi-soni-b06449250">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:soninidhi630@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0F766E?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/nidhisoni01">
+    <img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nidhisoni01&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nidhisoni01?label=FOLLOWERS&style=for-the-badge&color=1E3A8A" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/nidhisoni01?label=STARS&style=for-the-badge&color=0F766E" alt="GitHub Stars" />
+</p>
 
-## 🏆 GitHub Trophies
-![Github](https://github-profile-trophy.vercel.app/?username=nidhisoni01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-<br>
+# 👩‍💻 About Me
 
-Email Me 👉 ✉️ **soninidhi630@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+I’m **Nidhi Soni**, a Software Developer focused on building scalable, secure, and production-oriented applications.
 
-- 🔭 **I’m currently working on:** Building dynamic full-stack applications using the MERN stack.
-- 🌱 **I’m currently learning and improving:** Spring boot & Maven, CI/CD, Docker and cloud deployment (AWS).
-- 👯 **I’m looking to collaborate on:** Full-stack web applications, open-source projects, and innovative real-world solutions.
-- 📫 **How to reach me:** soninidhi630@gmail.com
-- 🌐 **Portfolio:** https://nidhisoni.website
+My primary focus is **Full-Stack Development**, with hands-on experience across the MERN ecosystem, RESTful APIs, authentication, databases, cloud deployment, and modern development workflows.
 
-  <br>
+### Engineering Focus
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhi-soni-b06449250)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NidhiSoni01234)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/soninidhi1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C896.svg?logo=vercel&logoColor=white)](https://nidhisoni.website/)
-![Resume](https://drive.google.com/thumbnail?id=1JK_pS-cYE2xr2WK7W89j9tAMGMMeLz-Z&sz=w1000)
+- ⚡ Software Development & Engineering
+- 🧩 Full-Stack Development
+- 🔧 Backend Development & RESTful APIs
+- 🏗️ Scalable & Maintainable Application Architecture
+- 🔐 Authentication & Secure Application Development
+- 🗄️ Database Design & Management
+- 🧠 Data Structures & Algorithms
+- 🧪 Debugging, Testing & Problem Solving
+- ☁️ Cloud Deployment & DevOps
 
-<br>
+### Open To
 
-<!-- Snake Game Repo View -->
+Software Engineering  
+Full-Stack Development  
+Cloud & DevOps  
+Open Source  
+Real-world Product Development
 
-<!--<div align="center"> -->
- <!-- <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> -->
-<!--</div> -->
+---
 
-<!--<div align="center"> -->
+# 🧰 Tech Stack
 
-# 💻 Tech Stack:
+### Languages
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,html,css,sql" />
+</p>
 
-<br/>
+### Frontend
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nidhisoni01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nidhisoni01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhisoni01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+</p>
 
+### Backend & Databases
 
-### 🎖 &nbsp;My Badges 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
+### Cloud, DevOps & Tooling
 
-[![An image of @nidhisoni01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nidhisoni01)](https://holopin.io/@nidhisoni01)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins,maven,git,github,postman,figma" />
+</p>
 
+---
 
+# 💻 Coding Profiles
 
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote"/>
+<p align="center">
+  <a href="https://leetcode.com/u/soninidhi1/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-2563EB?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://github.com/nidhisoni01">
+    <img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<br/>
+---
 
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=nidhisoni01&limit=5&theme=date_night&combine_all_yearly_contributions=true" alt="Top Repo"/>
+# 📊 GitHub Analytics
 
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nidhisoni01&hide_border=true&ring=2563EB&fire=0F766E&currStreakLabel=2563EB&sideLabels=475569&dates=64748B&background=F8FAFC" alt="GitHub Streak" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=nidhisoni01&icon=2&color=5)](https://visitcount.itsvg.in)
+---
 
-</div>
+# 🎯 Current Focus
 
+Learning:
+  - Spring Boot
+  - Maven
+  - CI/CD
+  - AWS
+  - Cloud Deployment
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Building:
+  - Full-Stack MERN Applications
+  - Production-Oriented Web Applications
+
+Exploring:
+  - Backend Engineering
+  - Cloud Infrastructure
+  - DevOps Automation
+  - Scalable System Design
+
+🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:soninidhi630@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-0F766E?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/nidhi-soni-b06449250">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/nidhisoni01">
+    <img src="https://img.shields.io/badge/GitHub-Follow-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://nidhisoni.website">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/NidhiSoni01234">
+    <img src="https://img.shields.io/badge/X-Follow-0F172A?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/soninidhi1/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-2563EB?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>“Build with curiosity. Engineer with purpose. Ship with confidence.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:0F766E" width="100%" />
+</p>
